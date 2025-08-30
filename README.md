@@ -25,7 +25,7 @@ Each folder inside this repo represents a **topic** I’m studying, with notes, 
 ```bash
 self-study/
 │── JavaScript/     # Learning JavaScript (SuperSimpleDev)
+│── CSharp/         # (Planned) React journey
 │── Python/         # (Planned) Python journey
-│── CSharp/         # (Planned) C# journey
 │── ...             # More folders will be added as I learn
 └── README.md       # This file
