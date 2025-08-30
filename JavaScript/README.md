@@ -1,12 +1,9 @@
+## 🚀 JavaScript Learning Journey  
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68542775/167072911-dc31eac8-6885-4a05-9c25-279ecce22a79.png" alt="Self-Study Journey Banner" width="800">
 </p>
-
-# 🚀 JavaScript Learning Journey  
-
-![GitHub last commit](https://img.shields.io/github/last-commit/borno-22/self-study)  
-![GitHub issues](https://img.shields.io/github/issues/borno-22/self-study)  
-![GitHub stars](https://img.shields.io/github/stars/borno-22/self-study?style=social)  
 
 ---
 
