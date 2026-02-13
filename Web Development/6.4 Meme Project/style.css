@@ -1,0 +1,46 @@
+html {
+    background-color: black;
+}
+
+.head {
+    color: #FFF4EA;
+    font-family: "Rubik Glitch", system-ui;
+    font-size: 70px;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 100px;
+}
+
+#icon {
+    text-align: center;
+}
+
+.number {
+    text-align: center;
+    color: #FFF4EA;
+    font-family: "UnifrakturCook", cursive;
+    font-size: 50px;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.container{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+.image{
+    border: 5px solid white;
+    width: 100%;
+}
+
+.title{
+      text-transform: uppercase;
+color: #FFF4EA;
+font-size: 3rem;
+}
+
+.desc{
+    color: #FFF4EA;
+}
